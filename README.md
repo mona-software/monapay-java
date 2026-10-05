@@ -93,3 +93,7 @@ Docs: https://monapay.vn/docs · Hotline 1900 636 648 · info@themona.global. MO
 Zero-dependency Java 11+ SDK for MONA Pay. It covers token caching and one 401 refresh, virtual accounts and both OTP steps, VietQR, client-side `sinceId` transaction iteration, webhook configuration/logs/retry, and constant-time HMAC verification. The Spring Boot source is an integration example and is not part of the dependency-free SDK build.
 
 MIT © The MONA Group.
+
+**MONA Pay is part of MONA Cloud by The MONA Group.**
+
+**MONA Pay thuộc bộ MONA Cloud của The MONA Group.**
